@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.minimalstreetwearuk.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1694692479|TozFwiKiVHXT
+www.minimalstreetwearuk.com	TRUE	/	FALSE	1999999999	hs	342599790
+www.minimalstreetwearuk.com	TRUE	/	FALSE	1999999999	svSession	5780542df1cd4ba2b35d5a9a623f5dda44a5a6160eef27bd4414c66b5cbcc5d16aa34e5b06347062042967e66f7ddd401e60994d53964e647acf431e4f798bcd1a2148c1ac4b5ac9f6b71534189b414d41020f5023de9563e3b5d0307d36c4e8c6cbbb24bf3858a8845beea4965060738ca97fabe5fee27b50217d22c04ac551c16067443b7bd5e6d233b084491e06ff
+www.minimalstreetwearuk.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.minimalstreetwearuk.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit_miss#dc#desc=fastly_g
+
